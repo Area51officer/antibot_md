@@ -11,7 +11,7 @@ global.owner = [
 	//  ['6281234288573'],
 	//['12546153210'],
 	//['62895368900456'],
-	['6282331033919', 'need me?', true]
+	['14318136969', 'Sam kira kun', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -27,9 +27,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'I hope You\'re fine'
-global.author = 'Wuis'
-global.nomorown = '6282331033919'
+global.packname = 'SamBot'
+global.author = 'Sam'
+global.nomorown = '14318136969'
 global.multiplier = 69 // The higher, The harder levelup
 
 global.rpg = {
